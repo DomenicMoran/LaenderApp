@@ -1,0 +1,64 @@
+[{
+"countryName" :  "Deutschland",
+"inhabitants" : "82.792.351",
+"capital" : "Berlin",
+"currency" : "Euro",
+"imageName" : "germany"
+},
+{
+"countryName" :  "Frankreich",
+"inhabitants" : "66.962.166",
+"capital" : "Paris",
+"currency" : "Euro",
+"imageName" : "france"
+},
+{
+"countryName" :  "Österreich",
+"inhabitants" : "8.822.267",
+"capital" : "Wien",
+"currency" : "Euro",
+"imageName" : "austria"
+},
+{
+"countryName" :  "Schweden",
+"inhabitants" : "10.120.242",
+"capital" : "Stockholm",
+"currency" : "Schwedische Krone",
+"imageName" : "sweden"
+},
+{
+"countryName" :  "Italien",
+"inhabitants" : "60.483.973",
+"capital" : "Rom",
+"currency" : "Euro",
+"imageName" : "italy"
+},
+{
+"countryName" :  "Spanien",
+"inhabitants" : "46.658.447",
+"capital" : "Madrid",
+"currency" : "Euro",
+"imageName" : "spain"
+},
+{
+"countryName" :  "Portugal",
+"inhabitants" : "10.291.027",
+"capital" : "Lissabon",
+"currency" : "Euro",
+"imageName" : "portugal"
+},
+{
+"countryName" :  "Griechenland",
+"inhabitants" : "10.741.165",
+"capital" : "Athen",
+"currency" : "Euro",
+"imageName" : "greece"
+},
+{
+"countryName" :  "Lettland",
+"inhabitants" : "1.934.379",
+"capital" : "Riga",
+"currency" : "Euro",
+"imageName" : "latvia"
+}
+]
